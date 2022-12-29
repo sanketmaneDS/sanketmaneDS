@@ -3,8 +3,6 @@ Hi there👋
 
 Glad To See You Here![visitors] (https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-My GitHub Stats: 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanketmaneDS_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
 My name is Sanket and I am a aspriring data scientist with a passion for using data to drive business insights and decision making.
