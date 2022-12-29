@@ -1,4 +1,3 @@
-[![MasterHead](https://img.freepik.com/free-vector/blank-landscape-scene-nature-park-sunset-time_1308-56124.jpg?w=1380&t=st=1672335673~exp=1672336273~hmac=84da760877bef621498de67b2f601141f1f49387def7e2567a5042a6013fbf6a)](https://github.com/sanketmaneDS)
   
 Hi there👋
 
