@@ -1,6 +1,8 @@
 
 Hi there👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 My name is Sanket and I am a aspriring data scientist with a passion for using data to drive business insights and decision making.
 
 On this profile, you will find a collection of my data science projects and writings. I have experience in a variety of domains.
