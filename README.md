@@ -6,7 +6,7 @@ Hi there👋
 Glad To See You Here..!
 
 
-My name is Sanket and I am a aspriring data scientist with a passion for using data to drive business insights and decision making.
+My name is Sanket and I am an aspriring data scientist with a passion for using data to drive business insights and decision making.
 
 On this profile, you will find a collection of my data science projects and writings. I have experience in a variety of domains.
 
